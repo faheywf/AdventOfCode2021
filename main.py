@@ -1,4 +1,4 @@
-from day1 import day_one_part_two
+from day2 import day_two_part_two
 
 if __name__ == "__main__":
-    print(day_one_part_two())
+    print(day_two_part_two())
